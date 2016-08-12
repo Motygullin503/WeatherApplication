@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="Location">\@stringlocation</string>
+    <string name="temperature">Temperature</string>
+    <string name="location">Location</string>
+    <string name="condition">Condition</string>
+    <string name="location_select">Select Location</string>
+</resources>

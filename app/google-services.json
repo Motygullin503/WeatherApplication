@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709831516303",
+    "firebase_url": "https://weatherappforgdg.firebaseio.com",
+    "project_id": "weatherappforgdg",
+    "storage_bucket": "weatherappforgdg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709831516303:android:1555df6dd9e8d955",
+        "android_client_info": {
+          "package_name": "ru.ksu.motygullin.weatherapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709831516303-rgonkk3iltpvgqo245jre3tgit3k94ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.ksu.motygullin.weatherapplication",
+            "certificate_hash": "F644FAE17E80FB38843B2EF5E08A77ECB75076B0"
+          }
+        },
+        {
+          "client_id": "709831516303-fmb9nl904mbfluuj3vi0hmsha4pcq372.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRWRG_qWMmmCpgE_Sw5Yrmpth7yH8yPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709831516303-fmb9nl904mbfluuj3vi0hmsha4pcq372.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
